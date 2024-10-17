@@ -35,12 +35,12 @@
 * [🏷️优质学习资料收录栈](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E4%BC%98%E8%B4%A8%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%E6%94%B6%E5%BD%95%E6%A0%88)
 * [🏹编程效率提升技巧集](https://github.com/YSGStudyHards/DotNetGuide#%E7%BC%96%E7%A8%8B%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87%E6%8A%80%E5%B7%A7%E9%9B%86)
 * [⚒️程序员常用的工具软件](https://github.com/YSGStudyHards/DotNetGuide/issues/11)
-* [✍C#入门到进阶学习指南](https://github.com/YSGStudyHards/DotNetGuide#c%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97)
 * [🔋C#/.NET/.NET Core充电站](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E5%85%85%E7%94%B5%E7%AB%99)
 * [👨‍🎓C#/.NET/.NET Core人才招聘](https://github.com/YSGStudyHards/DotNetGuide/issues/43)
 * [🎁C#/.NET/.NET Core面试宝典](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8)
 * [🚀C#/.NET/.NET Core拾遗补漏](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#cnetnet-core%E6%8B%BE%E9%81%97%E8%A1%A5%E6%BC%8F)
 * [📰C#/.NET/.NET Core最新资讯](https://github.com/YSGStudyHards/DotNetGuide/issues/16)
+* [🕹C#/.NET/.NET Core学习路线图集](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#cnetnet-core%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE%E9%9B%86)
 * [🥇C#/.NET/.NET Core开发实战教程](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E6%95%99%E7%A8%8B)
 * [✋C#/.NET/.NET Core疑难问题答疑](https://github.com/YSGStudyHards/DotNetGuide/issues/23)
 * [📚C#/.NET/.NET Core推荐学习书籍](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#cnetnet-core%E6%8E%A8%E8%8D%90%E5%AD%A6%E4%B9%A0%E4%B9%A6%E7%B1%8D)
@@ -165,14 +165,6 @@
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 
-## ✍C#入门到进阶学习指南
-> 作者正在努力编写中，欢迎大家一起加入。。。。。。。
-
-所有学习示例代码都在[DotNetGuidePractice👉](https://github.com/YSGStudyHards/DotNetGuide/tree/main/DotNetGuidePractice)
-
-[🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
-
-
 ## 🔋C#/.NET/.NET Core充电站
 ### 在线学习站
 * [.NET官网](https://dotnet.microsoft.com/zh-cn/)
@@ -229,6 +221,15 @@
 
 * [✍C#/.NET/.NET Core拾遗补漏合集](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetStudy.md)
 * [🚀C#/.NET/.NET Core拾遗补漏Issues投稿](https://github.com/YSGStudyHards/DotNetGuide/issues/37)
+
+[🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
+
+## 🕹C#/.NET/.NET Core学习路线图集
+> **C#、.NET、.NET Core、WPF、WinForm、Unity等相关技术的学习和工作路线图的集合！！！**
+- C#/.NET/.NET Core学习路线图集地址：[https://www.yuque.com/ysgstudyhard/lg56l0/ub8s6b0re9h26epr👉](https://www.yuque.com/ysgstudyhard/lg56l0/ub8s6b0re9h26epr)
+
+![C#/.NET/.NET Core学习路线图集](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2426875/o_241017162256_%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE.png "C#/.NET/.NET Core学习路线图集")
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
